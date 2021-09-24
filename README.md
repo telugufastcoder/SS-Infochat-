@@ -47,7 +47,7 @@ Okay seems like you integrated the library in your project but **how do you use 
 
 ```xml
 .....
- <com.mukesh.OtpView
+ <com.telugu fast coder.OtpView
       android:id="@+id/otp_view"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
@@ -105,10 +105,10 @@ That's pretty much it and your all wrapped up.
 Apart from these you can use any property that applies to an `EditText`.
 
 ## Author
-Maintained by [Mukesh Solanki](https://www.github.com/mukeshsolanki)
+Maintained by [telugu fast coder](https://www.github.com/SS Infochat)
 
 ## Contribution
-[![GitHub contributors](https://img.shields.io/github/contributors/mukeshsolanki/android-otpview-pinview.svg)](https://github.com/mukeshsolanki/android-otpview-pinview/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/SS Infochat/android-otpview-pinview.svg)](https://github.com/SS Infochat/android-otpview-pinview/graphs/contributors)
 
 * Bug reports and pull requests are welcome.
 * Make sure you use [square/java-code-styles](https://github.com/square/java-code-styles) to format your code.
@@ -117,7 +117,7 @@ Maintained by [Mukesh Solanki](https://www.github.com/mukeshsolanki)
 ```
 MIT License
 
-Copyright (c) 2018 Mukesh Solanki
+Copyright (c) 2018 telugu fast coder
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
